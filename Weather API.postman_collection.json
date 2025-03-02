@@ -1,0 +1,18 @@
+{
+	"info": {
+		"_postman_id": "9dcbdafc-20c8-429d-be0e-ccef8942ab40",
+		"name": "Weather API",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "29494934"
+	},
+	"item": [
+		{
+			"name": "/weather?address=mumbai",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
